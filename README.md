@@ -1,4 +1,4 @@
-# Desafio Tech Lead Python
+# Desafio Python
 
 O desafio é separado em três partes:
 
