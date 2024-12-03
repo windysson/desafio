@@ -1,0 +1,8 @@
+Grafico Média de Delay por Origem e Linha Aérea:
+O grafico apresenta a media dos atrasos dos voos para cada aeroporto de origem, agrupado por linha aérea.
+Onde as com maior delay são: F9, WN e MQ
+
+Grafico Origem vs Linha Aérea com Status de Cancelamento:
+O gráfico mostra a relação entre a origem, a linha aérea e o status de cancelamento dos voos, com o tamanho dos pontos representando o número
+de voos e a cor indicando se houve cancelamento ou não:
+Onde podemos ver que as linhas que mais tem cancelamento são: MQ, OO e WN

@@ -1,0 +1,5 @@
+
+O problema foi Resolvido usando o K-Means, que agrupou os voos com base em dados como atrasos e tempo de voo.
+Analisando os grupos formados e mapeando quais têm mais chance de cancelamento. 
+Depois, foi aplicado essa lógica para marcar os voos na base de dados como "cancelados" ou "não cancelados", 
+simplificando a identificação e ajudando a prever problemas.

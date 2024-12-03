@@ -11,7 +11,7 @@ Agora chegou a hora de mostrar ao usuário as informações geradas na parte ant
 
 $$ val = \dfrac{\sum_{i=1}^n médiaVoo(i)}{frequenciaVoo(i)} $$
 
-Onde médiaVoo é a média calculada na parte anterior e frequenciaVoo como sendo a quantodade de vezes que o voo se repetiu (a frequencia com que essa informáção se repetiu na coleção)
+Onde médiaVoo é a média calculada na parte anterior e frequenciaVoo como sendo a quantidade de vezes que o voo se repetiu (a frequencia com que essa informáção se repetiu na coleção)
 
 Um outro gráfico de pontos que mostra no eixo X a origem, no eixo Y a linha aerea, a cor sendo o número do voo e o tamanho como sendo a chance do voo ser cancelado.
 
